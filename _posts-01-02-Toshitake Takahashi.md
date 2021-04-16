@@ -2,6 +2,5 @@
 layout:slide
 title:"welcome to our second slide!"
 ---
-konnitiha sayounara thankyou
-
+konnitiha sayounara thankyou ari
 Use the left arrow to go back!
